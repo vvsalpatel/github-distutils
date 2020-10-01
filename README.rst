@@ -1,4 +1,4 @@
-github-distutils
+github distutils
 ================
 
 .. warning::
